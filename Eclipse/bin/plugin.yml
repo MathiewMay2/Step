@@ -1,0 +1,9 @@
+main: ca.cobiy.step.Main
+name: SeniorTeamExampleProject
+version: 1.0.0
+description: This is the exampel project for the Senior Team application process.
+author: Cobiyyy
+commands:
+  npc:
+    usage: /npc <display_name>
+    description: Spawns an npc

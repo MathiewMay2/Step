@@ -1,0 +1,4 @@
+NPC:
+  Default:
+    world: "world"
+    xyz: "0,90,0"
